@@ -22,7 +22,7 @@ package main
 import (
     "fmt"
 
-    "github.com/mitchallen/go-lib"
+    "github.com/andrietri/go-lib"
 )
 
 func main() {
@@ -35,11 +35,4 @@ func main() {
 
 ```
 $ go test
-```
-
-## Tagging
-
-```
-$ git tag v0.1.0
-$ git push origin --tags
 ```
